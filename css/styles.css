@@ -1,0 +1,66 @@
+.navbar{
+    padding: 1.5rem;
+    font-size: 1.5rem;
+}
+.navbar-brand{
+    font-size: 2rem;
+}
+.nav-item{
+    padding: 0 1rem 0;
+}
+
+.main-heading{
+    margin: 3rem 0 0 ;
+    padding: 1.5rem 0 0;
+    font-family: 'Montserrat', sans-serif;
+}
+#top-btn{
+    margin: 1.5rem 0 0;
+}
+.col-lg-4{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h1{
+    font-size: 2rem;
+}
+#mid-btn{
+    margin: 1.5rem 0 0;
+}
+.mid-h{
+    margin: 4rem 0 0;
+}
+.short{
+    margin: 4rem 0 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.imagee{
+    height: 400px;
+    width: 400px;
+    margin:4rem 0 0 ;
+    margin-left: 200px;
+}
+#details{
+    font-family: 'Montserrat', sans-serif;
+    background-color: grey;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding: 2rem 2rem 2rem;
+
+}
+#points{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+#carousel-container{
+    background-color:grey;
+}
+.phone-image{
+    margin-left: 200px;
+}
+#last-container{
+    background-color: grey;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding: 0rem 2rem 2rem;
+}
